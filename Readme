@@ -1,0 +1,18 @@
+Step 1: Install Required Libraries
+Run the following command to install the pynput library:
+
+bash
+Copy
+Edit
+pip install pynput
+Step 2: Create the Keylogger Script
+python
+
+3. Running the Keylogger
+Save the script as keylogger.py and run it:
+python keylogger.py
+It will log all keystrokes into keylogs.txt.
+
+To stop the keylogger, use Ctrl + C.
+
+
